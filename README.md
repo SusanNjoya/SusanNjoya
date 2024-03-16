@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SusanNjoya
 - 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning Java, CSS/HTML/JavaScript
 - 💞️ I’m looking to collaborate on projects involving the social sciences 
 
 <!---
